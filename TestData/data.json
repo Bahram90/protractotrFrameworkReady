@@ -1,0 +1,311 @@
+
+
+
+
+
+
+
+
+
+
+{
+    "items": [
+        {
+            "country_id": "AR",
+            "country_name": "Argentina",
+            "region_id": 2,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://3.88.215.181:1000/ords/hr/countries/AR"
+                }
+            ]
+        },
+        {
+            "country_id": "AU",
+            "country_name": "Australia",
+            "region_id": 3,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://3.88.215.181:1000/ords/hr/countries/AU"
+                }
+            ]
+        },
+        {
+            "country_id": "BE",
+            "country_name": "Belgium",
+            "region_id": 1,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://3.88.215.181:1000/ords/hr/countries/BE"
+                }
+            ]
+        },
+        {
+            "country_id": "BR",
+            "country_name": "Brazil",
+            "region_id": 2,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://3.88.215.181:1000/ords/hr/countries/BR"
+                }
+            ]
+        },
+        {
+            "country_id": "CA",
+            "country_name": "Canada",
+            "region_id": 2,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://3.88.215.181:1000/ords/hr/countries/CA"
+                }
+            ]
+        },
+        {
+            "country_id": "CH",
+            "country_name": "Switzerland",
+            "region_id": 1,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://3.88.215.181:1000/ords/hr/countries/CH"
+                }
+            ]
+        },
+        {
+            "country_id": "CN",
+            "country_name": "China",
+            "region_id": 3,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://3.88.215.181:1000/ords/hr/countries/CN"
+                }
+            ]
+        },
+        {
+            "country_id": "DE",
+            "country_name": "Germany",
+            "region_id": 1,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://3.88.215.181:1000/ords/hr/countries/DE"
+                }
+            ]
+        },
+        {
+            "country_id": "DK",
+            "country_name": "Denmark",
+            "region_id": 1,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://3.88.215.181:1000/ords/hr/countries/DK"
+                }
+            ]
+        },
+        {
+            "country_id": "EG",
+            "country_name": "Egypt",
+            "region_id": 4,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://3.88.215.181:1000/ords/hr/countries/EG"
+                }
+            ]
+        },
+        {
+            "country_id": "FR",
+            "country_name": "France",
+            "region_id": 1,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://3.88.215.181:1000/ords/hr/countries/FR"
+                }
+            ]
+        },
+        {
+            "country_id": "IL",
+            "country_name": "Israel",
+            "region_id": 4,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://3.88.215.181:1000/ords/hr/countries/IL"
+                }
+            ]
+        },
+        {
+            "country_id": "IN",
+            "country_name": "India",
+            "region_id": 3,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://3.88.215.181:1000/ords/hr/countries/IN"
+                }
+            ]
+        },
+        {
+            "country_id": "IT",
+            "country_name": "Italy",
+            "region_id": 1,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://3.88.215.181:1000/ords/hr/countries/IT"
+                }
+            ]
+        },
+        {
+            "country_id": "JP",
+            "country_name": "Japan",
+            "region_id": 3,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://3.88.215.181:1000/ords/hr/countries/JP"
+                }
+            ]
+        },
+        {
+            "country_id": "KW",
+            "country_name": "Kuwait",
+            "region_id": 4,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://3.88.215.181:1000/ords/hr/countries/KW"
+                }
+            ]
+        },
+        {
+            "country_id": "ML",
+            "country_name": "Malaysia",
+            "region_id": 3,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://3.88.215.181:1000/ords/hr/countries/ML"
+                }
+            ]
+        },
+        {
+            "country_id": "MX",
+            "country_name": "Mexico",
+            "region_id": 2,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://3.88.215.181:1000/ords/hr/countries/MX"
+                }
+            ]
+        },
+        {
+            "country_id": "NG",
+            "country_name": "Nigeria",
+            "region_id": 4,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://3.88.215.181:1000/ords/hr/countries/NG"
+                }
+            ]
+        },
+        {
+            "country_id": "NL",
+            "country_name": "Netherlands",
+            "region_id": 1,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://3.88.215.181:1000/ords/hr/countries/NL"
+                }
+            ]
+        },
+        {
+            "country_id": "SG",
+            "country_name": "Singapore",
+            "region_id": 3,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://3.88.215.181:1000/ords/hr/countries/SG"
+                }
+            ]
+        },
+        {
+            "country_id": "UK",
+            "country_name": "United Kingdom",
+            "region_id": 1,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://3.88.215.181:1000/ords/hr/countries/UK"
+                }
+            ]
+        },
+        {
+            "country_id": "US",
+            "country_name": "United States of America",
+            "region_id": 2,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://3.88.215.181:1000/ords/hr/countries/US"
+                }
+            ]
+        },
+        {
+            "country_id": "ZM",
+            "country_name": "Zambia",
+            "region_id": 4,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://3.88.215.181:1000/ords/hr/countries/ZM"
+                }
+            ]
+        },
+        {
+            "country_id": "ZW",
+            "country_name": "Zimbabwe",
+            "region_id": 4,
+            "links": [
+                {
+                    "rel": "self",
+                    "href": "http://3.88.215.181:1000/ords/hr/countries/ZW"
+                }
+            ]
+        }
+    ],
+    "hasMore": false,
+    "limit": 25,
+    "offset": 0,
+    "count": 25,
+    "links": [
+        {
+            "rel": "self",
+            "href": "http://3.88.215.181:1000/ords/hr/countries/"
+        },
+        {
+            "rel": "edit",
+            "href": "http://3.88.215.181:1000/ords/hr/countries/"
+        },
+        {
+            "rel": "describedby",
+            "href": "http://3.88.215.181:1000/ords/hr/metadata-catalog/countries/"
+        },
+        {
+            "rel": "first",
+            "href": "http://3.88.215.181:1000/ords/hr/countries/"
+        }
+    ]
+}
